@@ -6,12 +6,13 @@
 - README inicial adicionado
 - Git configurado
 - Repositório remoto conectado
+- Ambiente Phyton testado
+- Primeiro script Phyton executado
 
 ## Pendente
 
-- Testar ambiente Python
 - Registrar estrutura inicial
-- Executar primeiro script
+
 
 ## Estrutura
 
